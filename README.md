@@ -22,5 +22,7 @@
 <p align="center"><a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=ismaeldevv&count_private=true&show_icons=true&theme=tokyonight&card_width=450" /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaeldevv&hide=css&layout=compact&theme=tokyonight&card_width=450" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaeldevv&hide=css&layout=compact&theme=tokyonight&card_width=450" />
+</p>
   </a></p>
